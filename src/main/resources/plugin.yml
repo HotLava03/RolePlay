@@ -1,0 +1,6 @@
+name: RolePlay
+main: io.github.hotlava03.roleplay.RolePlayPlugin
+authors:
+  - Tierri Ferreira <tierrif@hotmail.com>
+version: 1.0.0-pre-alpha
+api-version: 1.13
